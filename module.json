@@ -1,6 +1,6 @@
 {
   "name": "cmsis-core",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "CMSIS-Core",
   "keywords": [
     "cmsis",
@@ -9,10 +9,10 @@
   ],
   "author": "Bogdan Marinescu <bogdan.marinescu@arm.com>",
   "repository": {
-    "url": "git@github.com:ARMmbed/cmsis-core.git",
+    "url": "git@github.com:he2she/cmsis-core.git",
     "type": "git"
   },
-  "homepage": "https://github.com/ARMmbed/cmsis-core",
+  "homepage": "https://github.com/he2she/cmsis-core",
   "licenses": [
     {
       "url": "https://spdx.org/licenses/Apache-2.0",
@@ -35,7 +35,7 @@
       "cmsis-core-freescale": "^1.0.0"
     },
     "st": {
-      "cmsis-core-st": "^1.0.0"
+      "cmsis-core-st": "he2she/cmsis-core-st#v1.0.1"
     },
     "nordic": {
       "cmsis-core-nordic": "^1.0.0"
